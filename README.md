@@ -32,6 +32,18 @@ Durante o desenvolvimento deste projeto, aprendi:
 
 - [Santander 2024 - Criando Jogos com Godot] [https://web.dio.me/track/codigo-godot-curso-completo](https://web.dio.me/track/santander-2024-criando-jogos-com-godot)
 
+## Artes
+
+Agradecimentos especiais aos artistas cujas obras estão incluídas neste projeto:
+
+- **Kenney**: [Kenney.nl](https://www.kenney.nl/)
+- **CraftPix**: [craftpix.net](https://craftpix.net)
+
+### As artes foram obtidas do pacote de artes gratuitas 
+[https://www.kenney.nl/assets/platformer-pack-industrial](https://www.kenney.nl/assets/platformer-pack-industrial).
+[https://free-game-assets.itch.io/free-horizontal-game-backgrounds](https://free-game-assets.itch.io/free-horizontal-game-backgrounds)
+
+
 ## Contato
 
 Se você tiver alguma dúvida ou quiser discutir mais sobre o projeto:
@@ -39,4 +51,3 @@ Se você tiver alguma dúvida ou quiser discutir mais sobre o projeto:
 [Felipe Calderaro](https://www.linkedin.com/in/felipe-calderaro/) - felipecalderaro28@gmail.com
 
 Link do Projeto: [(https://github.com/calderar0/godot-hello-world)](https://github.com/calderar0/godot-hello-world) <br>
-Direito das artes feitas pelo [Kenney.nl](https://www.kenney.nl/assets/platformer-pack-industrial)
