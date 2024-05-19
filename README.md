@@ -40,7 +40,7 @@ Agradecimentos especiais aos artistas cujas obras estão incluídas neste projet
 - **CraftPix**: [craftpix.net](https://craftpix.net)
 
 ### As artes foram obtidas do pacote de artes gratuitas 
-[https://www.kenney.nl/assets/platformer-pack-industrial](https://www.kenney.nl/assets/platformer-pack-industrial).
+[https://www.kenney.nl/assets/platformer-pack-industrial](https://www.kenney.nl/assets/platformer-pack-industrial) <br>
 [https://free-game-assets.itch.io/free-horizontal-game-backgrounds](https://free-game-assets.itch.io/free-horizontal-game-backgrounds)
 
 
