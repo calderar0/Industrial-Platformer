@@ -38,5 +38,5 @@ Se você tiver alguma dúvida ou quiser discutir mais sobre o projeto:
 
 [Felipe Calderaro](https://www.linkedin.com/in/felipe-calderaro/) - felipecalderaro28@gmail.com
 
-Link do Projeto: [(https://github.com/calderar0/godot-hello-world)](https://github.com/calderar0/godot-hello-world)
+Link do Projeto: [(https://github.com/calderar0/godot-hello-world)](https://github.com/calderar0/godot-hello-world) <br>
 Direito das artes feitas pelo [Kenney.nl](https://www.kenney.nl/assets/platformer-pack-industrial)
